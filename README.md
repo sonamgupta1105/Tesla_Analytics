@@ -3,8 +3,6 @@ project for ANLY 500 50
 
 Let's start analyzing !!
 
-If I recall correctly, Team Tesla was going to look at the sustainability of Tesla given a variety of forces; market/economic, technical, political... but focusing particularly on the efficiency/effectiveness of Tesla's cars for consumers.  For example, how fuel prices impact sales.  If that is correct I think you've got most of your data.  You might want to include some of the "upstream" forces for fuel; e.g. output/availability of oil from various countries and/or distribution and refining capacities.  This would be an indicator of whether or not fuel prices will continue to remain low.  
-
 Research question: The question we are trying to solve focuses on how Tesla's sales performance is affected by fuel prices. For this task, we established our null hypothesis to be fluctuations in fuel prices will not affect the sales performance whereas our alternate hypothesis is that the fuel pricess may affect the sales. 
 
 We have the following data collected on which we plan to base our analysis upon:
