@@ -3,6 +3,8 @@ project for ANLY 500 50
 
 Let's start analyzing !!
 
+Update on 4/5/2016: I have uploaded the word document which itself is in a APA style template that Word 2016 provides. I have title page, abstract and introduction in it. Currently working on the related work section
+
 Update on 4/4/2016: Normalization of oil prices = mean of prices for every month/average of 5 years
 
 
